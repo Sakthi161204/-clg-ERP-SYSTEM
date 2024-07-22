@@ -1,0 +1,11 @@
+.elevation-0 {
+    box-shadow: none !important;
+  }
+  
+  // Background colors (colors)
+  @each $name, $value in $elevations {
+    .elevation-#{$name} {
+      box-shadow: $value !important;
+    }
+  }
+  

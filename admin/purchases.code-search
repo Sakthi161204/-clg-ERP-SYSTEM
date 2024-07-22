@@ -1,0 +1,118 @@
+# Query: purchases
+# ContextLines: 1
+
+48 results - 2 files
+
+admin\index.html:
+  385                              <p>
+  386:                                 Purchases
+  387                                  <i class="right fas fa-angle-left"></i>
+
+  391                                  <li class="nav-item">
+  392:                                     <a href="/PurchasesPayment/Index" class="nav-link">
+  393                                          <i class="nav-icon fas fa-user-cog"></i>
+  394:                                         <p>Purchases Invoice</p>
+  395                                      </a>
+
+  397                                  <li class="nav-item">
+  398:                                     <a href="/PurchasesPaymentDraft/Index" class="nav-link">
+  399                                          <i class="nav-icon fas fa-history"></i>
+  400:                                         <p>Purchases Invoice Draft</p>
+  401                                      </a>
+
+  403                                  <li class="nav-item">
+  404:                                     <a href="/PurchasesPaymentQuote/Index" class="nav-link">
+  405                                          <i class="nav-icon fas fa-star"></i>
+  406:                                         <p>Purchases Invoice Quote</p>
+  407                                      </a>
+
+  649                              <p>
+  650:                                 Purchases Report
+  651                                  <i class="right fas fa-angle-left"></i>
+
+  655                                  <li class="nav-item">
+  656:                                     <a href="/PurchasesReport/PurchasesSummary" class="nav-link">
+  657                                          <i class="nav-icon fas fa-database"></i>
+  658:                                         <p>Purchases Summary</p>
+  659                                      </a>
+
+  661                                  <li class="nav-item">
+  662:                                     <a href="/PurchasesReport/PurchasesDetail" class="nav-link">
+  663                                          <i class="nav-icon fas fa-database"></i>
+  664:                                         <p>Purchases Detail</p>
+  665                                      </a>
+
+  667                                  <li class="nav-item">
+  668:                                     <a href="/PurchasesReport/PurchasesTransactionByDay" class="nav-link">
+  669                                          <i class="nav-icon fas fa-heart"></i>
+
+  673                                  <li class="nav-item">
+  674:                                     <a href="/PurchasesReport/PurchasesTransactionByMonth" class="nav-link">
+  675                                          <i class="nav-icon fas fa-heart"></i>
+
+  679                                  <li class="nav-item">
+  680:                                     <a href="/PurchasesReport/PurchasesTransactionByYear" class="nav-link">
+  681                                          <i class="nav-icon fas fa-heart"></i>
+
+  848              <div class="col-md-2 col-sm-6 col-xs-6 text-center">
+  849:                 <a href="/PurchasesReport/PurchasesSummary">
+  850:                     <span class="box"><img src="/images/erp_summary/PurchasesReport.png"></span>
+  851:                     <span><br><b>report module</b></span>
+  852                  </a>
+
+clg_erp\index.html:
+  387                              <p>
+  388:                                 Purchases
+  389                                  <i class="right fas fa-angle-left"></i>
+
+  393                                  <li class="nav-item">
+  394:                                     <a href="/PurchasesPayment/Index" class="nav-link">
+  395                                          <i class="nav-icon fas fa-user-cog"></i>
+  396:                                         <p>Purchases Invoice</p>
+  397                                      </a>
+
+  399                                  <li class="nav-item">
+  400:                                     <a href="/PurchasesPaymentDraft/Index" class="nav-link">
+  401                                          <i class="nav-icon fas fa-history"></i>
+  402:                                         <p>Purchases Invoice Draft</p>
+  403                                      </a>
+
+  405                                  <li class="nav-item">
+  406:                                     <a href="/PurchasesPaymentQuote/Index" class="nav-link">
+  407                                          <i class="nav-icon fas fa-star"></i>
+  408:                                         <p>Purchases Invoice Quote</p>
+  409                                      </a>
+
+  651                              <p>
+  652:                                 Purchases Report
+  653                                  <i class="right fas fa-angle-left"></i>
+
+  657                                  <li class="nav-item">
+  658:                                     <a href="/PurchasesReport/PurchasesSummary" class="nav-link">
+  659                                          <i class="nav-icon fas fa-database"></i>
+  660:                                         <p>Purchases Summary</p>
+  661                                      </a>
+
+  663                                  <li class="nav-item">
+  664:                                     <a href="/PurchasesReport/PurchasesDetail" class="nav-link">
+  665                                          <i class="nav-icon fas fa-database"></i>
+  666:                                         <p>Purchases Detail</p>
+  667                                      </a>
+
+  669                                  <li class="nav-item">
+  670:                                     <a href="/PurchasesReport/PurchasesTransactionByDay" class="nav-link">
+  671                                          <i class="nav-icon fas fa-heart"></i>
+
+  675                                  <li class="nav-item">
+  676:                                     <a href="/PurchasesReport/PurchasesTransactionByMonth" class="nav-link">
+  677                                          <i class="nav-icon fas fa-heart"></i>
+
+  681                                  <li class="nav-item">
+  682:                                     <a href="/PurchasesReport/PurchasesTransactionByYear" class="nav-link">
+  683                                          <i class="nav-icon fas fa-heart"></i>
+
+  850              <div class="col-md-2 col-sm-6 col-xs-6 text-center">
+  851:                 <a href="/PurchasesReport/PurchasesSummary">
+  852:                     <span class="box"><img src="/images/erp_summary/PurchasesReport.png"></span>
+  853:                     <span><br><b> Report module</b></span>
+  854                  </a>

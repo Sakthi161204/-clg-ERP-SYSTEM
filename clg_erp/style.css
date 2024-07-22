@@ -1,0 +1,11 @@
+ bg {
+     background-image: url('bg.png');
+     background-position: center;
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+ }
+
+ footer{
+     height: 500vh;
+     background-color: goldenrod;
+ }
